@@ -1,3 +1,5 @@
+> **This is my fork.** Prophis was a team project at YHack 2026; the data, the ML, and the statistics were mine. Original repository: [sophia-mai/yhack2026](https://github.com/sophia-mai/yhack2026). — [Nikhil Ramlukan](https://www.nikhilramlukan.com)
+
 # Prophis
 
 Prophis is a patient-context intelligence tool for public health analysis. It turns fragmented patient history into a readable timeline, connects that case to county-level health patterns, and highlights where earlier preventive action or follow-up could have changed the trajectory.
